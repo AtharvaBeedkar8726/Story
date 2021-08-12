@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 It was spring of hope, it was winter of despair.
 =======
 It was white hole of hopes, and black holes of despair.
+>>>>>>> alien-plot

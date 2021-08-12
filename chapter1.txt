@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 It was best of time, it was worst of time.
 =======
+=======
+>>>>>>> alien-plot
 It was best of space, it was worst of space.

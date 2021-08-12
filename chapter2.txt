@@ -1,3 +1,5 @@
+<<<<<<< HEAD
 It was age of Victory, it was age of Defeat.
 =======
 It was age of Aliens, it was age of Humans.
+>>>>>>> alien-plot
